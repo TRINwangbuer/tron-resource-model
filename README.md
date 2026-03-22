@@ -81,16 +81,7 @@ Think of it like:
 
 ---
 
-## 🛠 Tool (Coming Soon)
 
-I’m building a simple calculator:
-
-输入 TRX → 计算可获得能量  
-Estimate cost saving / usage efficiency  
-
-Stay tuned 👇
-
----
 
 ## 📩 Learn More｜深入了解
 
