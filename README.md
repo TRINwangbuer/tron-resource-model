@@ -94,4 +94,5 @@ I simplified the whole model into a beginner-friendly version
 
 Comment “ENERGY” if you came from Twitter
 @TRONwangbuer
+![Uploading image.png…]()
 
